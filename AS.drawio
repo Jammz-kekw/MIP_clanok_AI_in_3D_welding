@@ -1,9 +1,142 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="I-PgFHBz6PznP9GqyPgE">
-    <mxGraphModel>
+    <mxGraphModel dx="1149" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="490" width="560" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-2" target="hrvyv0_NGvWya8zJMgxE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-2" value="Zber dát" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-4" target="hrvyv0_NGvWya8zJMgxE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-4" value="Predspracovanie dát" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-6" target="hrvyv0_NGvWya8zJMgxE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-6" value="Výber vhodných dát" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-8" target="hrvyv0_NGvWya8zJMgxE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-8" value="Výber modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-10" target="hrvyv0_NGvWya8zJMgxE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-10" value="Tréning modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-12" target="hrvyv0_NGvWya8zJMgxE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-12" value="Validácia modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-17" target="hrvyv0_NGvWya8zJMgxE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-14" value="Áno" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hrvyv0_NGvWya8zJMgxE-13">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-17" target="hrvyv0_NGvWya8zJMgxE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-16" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hrvyv0_NGvWya8zJMgxE-15">
+          <mxGeometry x="-0.24" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-17" value="Úspešná validácia?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-19" target="hrvyv0_NGvWya8zJMgxE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-19" value="Testovanie modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-21" target="hrvyv0_NGvWya8zJMgxE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-21" value="Nasadenie modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-22" target="hrvyv0_NGvWya8zJMgxE-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-22" value="Monitorovanie a údržba modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-24" target="hrvyv0_NGvWya8zJMgxE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-24" value="Zber dát" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-26" target="hrvyv0_NGvWya8zJMgxE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-26" value="Predspracovanie dát" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-28" target="hrvyv0_NGvWya8zJMgxE-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-28" value="Výber vhodných dát" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-30" target="hrvyv0_NGvWya8zJMgxE-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-30" value="Výber modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-32" target="hrvyv0_NGvWya8zJMgxE-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-32" value="Tréning modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-34" target="hrvyv0_NGvWya8zJMgxE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-34" value="Validácia modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-41" target="hrvyv0_NGvWya8zJMgxE-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-41" value="Testovanie modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-43" target="hrvyv0_NGvWya8zJMgxE-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-43" value="Nasadenie modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-44" value="Monitorovanie a údržba modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-48" target="hrvyv0_NGvWya8zJMgxE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-48" value="Definovanie problému" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
