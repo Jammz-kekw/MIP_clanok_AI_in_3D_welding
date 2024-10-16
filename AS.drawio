@@ -137,6 +137,69 @@
         <mxCell id="hrvyv0_NGvWya8zJMgxE-48" value="Definovanie problému" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-52" value="&lt;b&gt;Monolitický dátový tok&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="490" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-53" value="&lt;b&gt;Životný cyklus strojového učenia&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="870" width="560" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-55" value="&lt;b&gt;Modulárny dátový tok&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="870" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-56" target="hrvyv0_NGvWya8zJMgxE-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="910" width="150" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrvyv0_NGvWya8zJMgxE-57" target="hrvyv0_NGvWya8zJMgxE-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="910" width="150" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="910" width="150" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-59" value="&lt;b&gt;Modul&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-60" value="&lt;b&gt;Modul&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-61" value="&lt;b&gt;Modul&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-62" value="Zber dát" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-65" value="Predspracovanie dát" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-66" value="Výber vhodných dát" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-67" value="Výber modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-68" value="Tréning modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-69" value="Validácia modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-70" value="Testovanie modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-71" value="Nasadenie modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrvyv0_NGvWya8zJMgxE-72" value="Monitorovanie a údržba modelu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
