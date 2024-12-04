@@ -109,7 +109,7 @@
         <mxCell id="GS2J1TNkUbUSxp60SRM0-3" value="OPT 2&lt;br&gt;&lt;br&gt;ConvAI metahuman&lt;br&gt;Local lipsync" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="195" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GS2J1TNkUbUSxp60SRM0-5" value="OPT 4&lt;br&gt;&lt;br&gt;Unity metahuman&lt;br&gt;ConvAI lipsync" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GS2J1TNkUbUSxp60SRM0-5" value="OPT 4&lt;br&gt;&lt;br&gt;Unity metahuman&lt;br&gt;Local lipsync" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GS2J1TNkUbUSxp60SRM0-11" value="OPT 3&lt;br&gt;&lt;br&gt;UE metahuman&lt;br&gt;Local lipsync" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
